@@ -1,0 +1,3 @@
+# Step 3: Time series Crash Map
+1. **time_series_weights_calculation.py:** creats a year weights model csv with a linear and exponential model/equations - **year_weight_models.csv**. Running the file will also yield a graph reflecting the two weights equations.
+2. **density_map_with_time.py:** uses the previously made weights file and applies the yearly weights to the original crash density map to create a new map called **weighted_heavy_truck_crashes_density_map.html**

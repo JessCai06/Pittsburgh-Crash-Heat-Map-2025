@@ -1,0 +1,2 @@
+#West End Bridge Map
+The two osm files in this folder represents the selected sample area, the stretch of the West End Brdige and immediate surrounding areas, our team analyzed using SUMO and TraCI. The area was selected for its **high historical crash density**, simple **road geometry** (with only a few roads feeding in and out of the road), and its **length** (easier to simulate with a longer distance).

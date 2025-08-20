@@ -1,0 +1,2 @@
+# Step 2: Density Map
+**density_map.py** uses the previously cleaned file **heavy_truck_crashes_cleaned.csv** and the libraries folium and branca to build the density map, the output file is an interactive map that can be explored via a web browser - **heavy_truck_crashes_density_map.html**
