@@ -2,6 +2,7 @@
 
 My research project for my **Summer Undergraduate Research Apprenticeship** (SURA) @ CMU, May - Aug 2025. 
 This repository contains data and scripts for analyzing crash data in Pittsburgh. The primary objective of my research is to develop a crash-prediction model for heavy-duty vehicles (HDV) by creating a model based on historical crash records. My final project can be seen below in the screenshot or accessed via the HTML page linked in this repo (must be opened locally).
+
 **Topics: Transportation Safety, Historical Crash Data**
 
 My sincere gratitude to **my advisors**:
