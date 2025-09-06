@@ -8,7 +8,7 @@ My sincere gratitude to my advisors:
 - Ava Jahan Biglari, Ph.D. Student at Carnegie Mellon University  
 
 And to my teammates:
-- Beibei Sun, M.Sc. Rail and Urban Transport || Technical University of Munich (TUM)
+- [Beibei Sun](https://github.com/kimisun1125-dotcom), M.Sc. Rail and Urban Transport || Technical University of Munich (TUM)
 - Allison Zhou, Student
 
 ![Sample Map Area](Sample%20Map%20Area.png)
